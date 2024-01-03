@@ -1,1 +1,1 @@
-# ITI-AI-Deploma
+# ITI-AI-Course
